@@ -36,4 +36,4 @@ This project combines **data analytics and marketing insights** to analyze custo
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/marketing-analytics-clv-uplift.git
+git clone https://github.com/<mukharbajpai>/marketing-analytics-clv-uplift.git

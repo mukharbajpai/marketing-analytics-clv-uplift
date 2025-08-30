@@ -37,3 +37,32 @@ This project combines **data analytics and marketing insights** to analyze custo
 
 ```bash
 git clone https://github.com/<mukharbajpai>/marketing-analytics-clv-uplift.git
+
+```
+2. Install dependencies
+```bash
+pip install pandas matplotlib seaborn scipy
+```
+3. Open the notebook eda.ipynb in Jupyter or VS Code and run the cells sequentially.
+4. Visualizations
+
+Transaction Amount Distribution: Shows how much customers spend per transaction.
+
+Transactions per Customer: Shows frequency of purchases per customer.
+
+Treatment vs Control Conversion Rates: Includes 95% confidence intervals and highlights the campaign uplift.
+
+These charts provide clear insights into customer behavior and campaign performance.
+Future Work
+
+Build a predictive model to identify high-value customers
+
+Compute incremental revenue / ROI from campaigns
+
+Extend EDA with RFM segmentation for marketing targeting
+
+Author
+
+Mukhar Bajpai
+
+Intermediate Data Analytics & Marketing Enthusiast
